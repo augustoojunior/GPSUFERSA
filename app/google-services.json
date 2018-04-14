@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "543454214718",
+    "firebase_url": "https://gps-ufersa.firebaseio.com",
+    "project_id": "gps-ufersa",
+    "storage_bucket": "gps-ufersa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543454214718:android:e915104dfaace7ac",
+        "android_client_info": {
+          "package_name": "com.ufersa.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543454214718-7uoskvhrvvv141pd7jb6o2qpvascberb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ufersa.gps",
+            "certificate_hash": "844fbe7d0f636fc855e83dbce42d157cca3d750e"
+          }
+        },
+        {
+          "client_id": "543454214718-uf06o6tmc5hvqnvcjavct0ck57q3toni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3P6f1zro-Gxw_pJiIyJQCyGq-3uJF-XE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543454214718-uf06o6tmc5hvqnvcjavct0ck57q3toni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
